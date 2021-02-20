@@ -4,31 +4,31 @@
            "id":1,
            "title":" Europe travel guide",
            "price":14.39,
-           "image":".Europe_3.9781787013711.browse.0.jpg"
+           "image":"./images/Europe_3.9781787013711.browse.0.jpg"
         },
         {
            "id":2,
            "title":" Middle East travel guide",
            "price":15.99,
-           "image":".Middle_East.jpg"
+           "image":"./images/Middle_East.jpg"
         },
         {
            "id":3,
            "title":"Best of Paris 2020 city guide",
            "price":11.19,
-           "image":".Best_of_Paris.jpg"
+           "image":"./images/Best_of_Paris.jpg"
         },
         {
            "id":4,
            "title":"Best of Rome 2020 city guide",
            "price":11.1,
-           "image":".Best_of_Rome.jpg"
+           "image":"./images/Best_of_Rome.jpg"
         },
         {
            "id":5,
            "title":"Egypt travel guide",
            "price":13.59,
-           "image":".Egypt_13.9781786575739.browse.0.jpg"
+           "image":"./images/Egypt_13.9781786575739.browse.0.jpg"
         },
         {
            "id":6,
@@ -40,55 +40,55 @@
            "id":7,
            "title":"Indonesia travel guide",
            "price":16.79,
-           "image":".Indonesia_12.9781786574770.browse.0.jpg"
+           "image":"./images/Indonesia_12.9781786574770.browse.0.jpg"
         },
         {
            "id":8,
            "title":"Maldives travel guide",
            "price":11.19,
-           "image":".Maldives_10.9781786571687.browse.0.jpg"
+           "image":"./images/Maldives_10.9781786571687.browse.0.jpg"
         },
         {
            "id":9,
            "title":"Jordan travel guide",
            "price":12.79,
-           "image":".Jordan_10.9781786575753.browse.0.jpg"
+           "image":"./images/Jordan_10.9781786575753.browse.0.jpg"
         },
         {
            "id":10,
            "title":"French Phrasebook And Dictionary",
            "price":3.19,
-           "image":".French_Phrasebook.jpg"
+           "image":"./images/French_Phrasebook.jpg"
         },
         {
            "id":11,
            "title":"Europe Phrasebook And Dictionary",
            "price":4.79,
-           "image":".Europe_Phrasebook_and_Dictionary_6.9781786576316.browse.0.jpg"
+           "image":"./images/Europe_Phrasebook_and_Dictionary_6.9781786576316.browse.0.jpg"
         },
         {
            "id":12,
            "title":"Italian Phrasebook And Dictionary",
            "price":3.99,
-           "image":".Italian_Phrasebook_8.9781787014688.browse.0.jpg"
+           "image":"./images/Italian_Phrasebook_8.9781787014688.browse.0.jpg"
         },
         {
            "id":13,
            "title":"Greek Phrasebook And Dictionary ",
            "price":3.99,
-           "image":".Greek_Phrasebook_Dictionary_7.9781786573780.browse.0.jpg"
+           "image":"./images/Greek_Phrasebook_Dictionary_7.9781786573780.browse.0.jpg"
         },
         {
            "id":14,
            "title":"Indonesian Phrasebook And Dictionary ",
            "price":3.99,
-           "image":".Indonesian_Phrasebook_7.9781786570697.browse.0.jpg"
+           "image":"./images/Indonesian_Phrasebook_7.9781786570697.browse.0.jpg"
         },
         {
            "id":15,
            "title":"Russian Phrasebook And Dictionary",
            "price":3.99,
-           "image":".Russian_Phrasebook_7.9781786574633.browse.0.jpg"
+           "image":"./images/Russian_Phrasebook_7.9781786574633.browse.0.jpg"
         }
      ]
   }
